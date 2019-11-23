@@ -1,0 +1,11 @@
+name: natural-language-processing
+dependencies:
+  - python=3.6
+  - jupyter
+  - regex
+  - nltk
+  - matplotlib
+  - gensim
+  - numpy
+  - beautifulsoup4
+  - requests
